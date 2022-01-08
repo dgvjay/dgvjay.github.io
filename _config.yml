@@ -8,24 +8,24 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: navishwadhwa/navishwadhwa.github.io
+repository: dgvjay/dgvjay.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Navish Wadhwa
-tagline: Mechanobiology of bacteria
+title : Digvijay Singh
+tagline: Molecular Sociology through In situ structure, assembly and function
 institution:
-  url: http://www.harvard.edu
-  name: Harvard University
+  url: https://www.ucsd.edu
+  name: University of California, San Diego
 department:
-  url: https://www.mcb.harvard.edu
-  name: Molecular and Cellular Biology
+  url: https://biology.ucsd.edu
+  name: Section of Molecular Biology
 author :
-  name : Navish Wadhwa
-  email : navish_wadhwa@fas.harvard.edu
-  github : navishwadhwa
-  twitter : NavishWadhwa
+  name : Digvijay Singh
+  email : digvijay.in1@gmail.com
+  github : dgvjay
+  twitter : dgvjayS
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -36,7 +36,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : navishwadhwa.github.io
+production_url : dgvjay.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

@@ -22,8 +22,9 @@
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
 
     <!-- icon -->
-    <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/logo/favicon.ico"/>
+    <link rel="shortcut icon" href="{{ ASSET_PATH }}/images/logo/logo-v2.svg"/>
 
+  
     <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
 
@@ -98,7 +99,7 @@
           {% assign group = 'navigation' %}
           {% include JB/pages_list %}
           
-<!--Uncomment below if you want a dropdown menu in the header navigation. 
+<!-- Tip: Uncomment below if you want a dropdown menu in the header navigation. 
   Pages to include should be assigned group: navigation-->
 
           <!--
@@ -142,9 +143,10 @@
           <li><a href={{ site.institution.url }} target="_blank">{{ site.institution.name }}</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right navbar-small">
-          <li><a href='/talks.html'>Talks</a></li>
+          <!--  <li><a href='/talks.html'>Talks</a></li> --> <!-- Tip: Add buttons for pages in the footer here -->
           <li><a href='/about.html#about'>About the site</a></li>
-          <li><a href='/about.html#contact'>Contact</a></li>
+          <!-- <li><a href='/about.html#contact'>Contacts</a></li>-->
+          <li><a href='/contacts.html'>Contacts</a></li>
         </ul>
       </div><!-- /.navbar-collapse -->
     </div>

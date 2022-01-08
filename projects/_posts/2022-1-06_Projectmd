@@ -1,0 +1,11 @@
+---
+layout: project
+title: "Title of Your Project"
+handle: title
+image: /assets/images/projects/test.png
+category: project
+tags: [XX, YY,ZZ]
+---
+{% include JB/setup %}
+
+*Under construction...*

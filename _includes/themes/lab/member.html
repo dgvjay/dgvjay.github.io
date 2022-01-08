@@ -26,6 +26,9 @@
 
 <div class="bigspacer"></div>
 
+<!-- icon -->
+<link rel="icon" href="{{ ASSET_PATH }}/images/logo/logo-v2.svg"/>
+
 <div class="row">
 	<div class="col-md-3">  			
 		{% if member.cv %}		
@@ -40,7 +43,64 @@
 		</div>
 				
 		<div class="bigspacer"></div>		
-		{% endif %}	  		
+		{% endif %}	  	
+
+		{% if member.scholar %}
+		<div class="smallhead">
+			Google Scholar
+		</div>	
+		<div class="spacer"></div>
+		<div class="pad-left note">
+			<!-- <div class="smallspacer"></div> -->
+			<i class="ai ai-google-scholar fa-fw"></i>
+			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}&sortby=pubdate" target="_blank">{{ member.title }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}		
+		
+		{% if member.pubmed %}		<!-- Tip: If there is a Pubmed bibilography link then display the following -->
+		<div class="smallhead">
+			PubMed
+		</div>
+		<div class="spacer"></div>	
+		<div class="pad-left note">
+			<!-- <div class="smallspacer"></div> -->
+			<!--<i class="fa fa-twitter fa-fw"></i>-->
+			<img src="/assets/themes/lab/images/logo/Pubmed_Logo.png" width='50px' alt=""> 
+			<a class="off" href="https://www.ncbi.nlm.nih.gov/myncbi/1Xq7s77Psqp5b/bibliography/public/" target="_blank">Link</a>
+		</div>		
+		<div class="bigspacer"></div>				
+		{% endif %}	
+
+		{% if member.publons %}		<!-- Tip: If there is a publons link then display the following -->
+		<div class="smallhead">
+			Publons
+		</div>
+		<div class="spacer"></div>	
+		<div class="pad-left note">
+			<!-- <div class="smallspacer"></div> -->
+			<!--<i class="fa fa-twitter fa-fw"></i>-->
+			<img src="/assets/themes/lab/images/logo/Publons_Logo.png" width='20px' alt=""> 
+			<a class="off" href="https://publons.com/researcher/1482223/digvijay-singh/" target="_blank">Link</a>
+		</div>		
+		<div class="bigspacer"></div>				
+		{% endif %}	
+
+		{% if member.orcid %}		<!-- Tip: If there is a ORCID link then display the following -->
+		<div class="smallhead">
+			ORCiD
+		</div>
+		<div class="spacer"></div>	
+		<div class="pad-left note">
+			<!-- <div class="smallspacer"></div> -->
+			<!--<i class="fa fa-twitter fa-fw"></i>-->
+			<img src="/assets/themes/lab/images/logo/ORCID_iD.png" width='20px' alt="">
+			<a class="off" href="https://orcid.org/0000-0002-7411-4436" target="_blank">Link</a>
+		</div>		
+		<div class="bigspacer"></div>				
+		{% endif %}	
+
+
 		{% if member.twitter %}		
 		<div class="smallhead">
 			Twitter
@@ -53,6 +113,8 @@
 		</div>		
 		<div class="bigspacer"></div>				
 		{% endif %}	
+
+
 		{% if member.github %}
 		<div class="smallhead">
 			GitHub
@@ -62,18 +124,6 @@
 			<!-- <div class="smallspacer"></div> -->
 			<i class="fa fa-github fa-fw"></i>
 			<a class="off" href="https://github.com/{{ member.github }}" target="_blank">{{ member.github }}</a>
-		</div>		
-		<div class="bigspacer"></div>	
-		{% endif %}		
-		{% if member.scholar %}
-		<div class="smallhead">
-			Google Scholar
-		</div>	
-		<div class="spacer"></div>
-		<div class="pad-left note">
-			<!-- <div class="smallspacer"></div> -->
-			<i class="ai ai-google-scholar fa-fw"></i>
-			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}&sortby=pubdate" target="_blank">{{ member.title }}</a>
 		</div>		
 		<div class="bigspacer"></div>	
 		{% endif %}				   	

@@ -1,0 +1,14 @@
+---
+layout: default
+title: Digvijay Singh, PhD
+categories:
+ - home
+---
+{% include JB/setup %}
+{% for page in site.categories.misc %}
+{% if page.contact %}
+	{% assign talkspage = page %}
+{% endif %}
+{% endfor %}
+
+{{ talkspage.content }}
