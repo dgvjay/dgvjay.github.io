@@ -2,7 +2,7 @@
 layout: paper
 title: "The Molecular Architecture of the Nuclear Basket"
 year: "2024"
-shortref: "Singh, Soni, Hutchings et al. <i>Cell</i> 2024"
+shortref: "Singh, Soni, Hutchings et al. <i>Cell (in print)</i> 2024"
 nickname: NPC_Basket
 journal: "Cell (in print)"
 volume: 
