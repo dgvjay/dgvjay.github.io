@@ -21,7 +21,7 @@ doi: https://doi.org/10.1101/2023.12.31.573409
 category: paper
 published: true
 peerreview: true
-selected: true
+selected: false
 review: false
 tags: [Nuclear Transport, Nuclear Pore Complex, Integrative Modeling,  Nuclear Basket, Cryo-electron tomography, nucleocytoplasmic transport, cryo-focused ion beam milling, Subtomogram Analysis]
 ---
