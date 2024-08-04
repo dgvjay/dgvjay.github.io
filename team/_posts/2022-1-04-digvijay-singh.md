@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Digvijay Singh"
-position: Damon Runyon Postdoctoral Fellow
+position: K99 & Damon Runyon Postdoctoral Fellow
 scholar: -ad98pWwAAAAJ
 nickname: Digvijay
 handle: digvijay
