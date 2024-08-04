@@ -5,11 +5,11 @@ year: "2024"
 shortref: "Singh et al. <i>Cell</i> 2024"
 nickname: NPC_Basket
 journal: "Cell (in print)"
-volume:
+volume: 
 issue: 
 pages: 
-authors: "Digvijay Singh#, Neelesh Soni#, Joshua Hutchings#, Ignacia Echeverria, Farhaz Shaikh, Madeleine Duquette, Sergey Suslov, Zhixun Li, Trevor van Eeuwen, Kelly Molloy, Yi Shi, Junjie Wang,Qiang Guo, Brian T. Chait, Javier Fernandez-Martinez, Michael P. Rout ,Andrej Sali, Elizabeth Villa
-image: /assets/images/papers/NPC_Basket.jpeg
+authors: "Digvijay Singh#, Neelesh Soni#, Joshua Hutchings#, Ignacia Echeverria, Farhaz Shaikh, Madeleine Duquette, Sergey Suslov, Zhixun Li, Trevor van Eeuwen, Kelly Molloy, Yi Shi, Junjie Wang, Qiang Guo, Brian T. Chait, Javier Fernandez-Martinez, Michael P. Rout, Andrej Sali, Elizabeth Villa"
+image: /assets/images/papers/NPC_Basket.png
 pdf: 
 pdflink: 
 github: 
@@ -28,4 +28,4 @@ tags: [Nuclear Transport, Nuclear Pore Complex, Nuclear Basket, Cryo-electron to
 {% include JB/setup %}
 
 # Abstract 
-The nuclear pore complex (NPC) is the sole mediator of nucle- ocytoplasmic transport. Despite great advances in understand- ing its conserved core architecture, the peripheral regions can exhibit considerable variation within and between species. One such structure is the cage-like nuclear basket. Despite its crucial roles in mRNA surveillance and chromatin organization, an ar- chitectural understanding has remained elusive. Using in-cell cryo-electron tomography and subtomogram analysis, we ex- plored the NPC’s structural variations and the nuclear basket across fungi (yeast; S. cerevisiae), mammals (mouse; M. muscu- lus), and protozoa (T. gondii). Using integrative structural mod- eling, we computed a model of the basket in yeast and mam- mals that revealed how a hub of Nups in the nuclear ring binds to basket-forming Mlp/Tpr proteins: the coiled-coil domains of Mlp/Tpr form the struts of the basket, while their unstructured termini constitute the basket distal densities, which potentially serve as a docking site for mRNA preprocessing before nucleo- cytoplasmic transport.
+The nuclear pore complex (NPC) is the sole mediator of nucleocytoplasmic transport. Despite great advances in understanding its conserved core architecture, the peripheral regions can exhibit considerable variation within and between species. One such structure is the cage-like nuclear basket. Despite its crucial roles in mRNA surveillance and chromatin organization, an architectural understanding has remained elusive. Using in-cell cryo-electron tomography and subtomogram analysis, we explored the NPC’s structural variations and the nuclear basket across fungi (yeast; *S. cerevisiae*), mammals (mouse; *M. musculus*), and protozoa (*T. gondii*). Using integrative structural modeling, we computed a model of the basket in yeast and mammals that revealed how a hub of Nups in the nuclear ring binds to basket-forming Mlp/Tpr proteins: the coiled-coil domains of Mlp/Tpr form the struts of the basket, while their unstructured termini constitute the basket distal densities, which potentially serve as a docking site for mRNA preprocessing before nucleocytoplasmic transport.
