@@ -1,0 +1,31 @@
+---
+layout: paper
+title: "Cryo-Focused Ion Beam Milling of Cells"
+year: "2024"
+shortref: "Singh et al. <i>Cell</i> 2024"
+nickname: NPC_Basket
+journal: "Cell (in print)"
+volume: 
+issue: 
+pages: 
+authors: "Digvijay Singh, Elizabeth Villa"
+image: /assets/images/papers/NPC_Basket.png
+pdf: 
+pdflink: 
+github: 
+pmid: 
+pmcid: 
+f1000: 
+figshare: 
+doi: https://doi.org/10.1007/978-3-031-51171-4_4
+category: review
+published: true
+peerreview: true
+selected: false
+review: true
+tags: [In-cell cryo-electron microscopy, cryo-focused ion beam milling, Subtomogram Analysis]
+---
+{% include JB/setup %}
+
+# Abstract 
+The
