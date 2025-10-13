@@ -22,8 +22,6 @@ Investigating these dual components is akin to playing legos at the molecular le
   <li>Cryo-electron microscopy, chiefly the <em>In situ</em> tomography using cryo-focused ion beam milling</li>
 </ul>
 
-------
-On a personal front, I enjoy spending time with my family, playing Tennis, and Swimming. Some of the issues I care about are Animal welfare, Democratization of science, Climate change, Minimalism, and Anti-Wastage. 
 
 ------
 
