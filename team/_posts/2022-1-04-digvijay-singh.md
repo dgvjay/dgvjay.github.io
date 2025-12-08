@@ -16,13 +16,6 @@ alum: false
 ---
 I am interested in molecular photography (capturing molecular structures & their locations) and molecular videography (observing what molecules do & how). My goal is to develop platforms that advance molecular discoveries and therapies. 
 
-I am interested in **molecular photography** (capturing molecular structures & their locations) and **molecular videography** (observing what molecules do & how). My goal is to develop platforms that advance molecular discoveries and therapies. 
-
-I specialize in managing:
-
-* **Biomolecules:** Developing assays & experiments.
-* **Photons & Electrons:** Using light & electron microscopy to visualize these biomolecules.
-* **Bits:** Processing the data from these microscopies (image processing). Lately, this has involved orchestrating neural networks with my biological insights.
 
 I specialize in managing biomolecules (i.e., developing assays & experiments), managing photons & electrons (i.e., light & electron microscopy to visualize these biomolecules), and finally managing bits (i.e., the data from these microscopies, also known as image processing). Lately, managing bits has involved orchestrating neural networks with my biological insights.
 
