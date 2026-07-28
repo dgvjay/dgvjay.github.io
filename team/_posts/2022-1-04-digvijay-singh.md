@@ -14,10 +14,7 @@ image: /assets/images/team/digvijay.jpg
 cv: /assets/pdfs/Digvijay_Singh_CV.pdf
 alum: false
 ---
-I am interested in molecular photography (capturing molecular structures & their locations) and molecular videography (observing what molecules do & how). My goal is to develop platforms that advance molecular discoveries and therapies. 
-
-
-I specialize in managing biomolecules (i.e., developing assays & experiments), managing photons & electrons (i.e., light & electron microscopy to visualize these biomolecules), and finally managing bits (i.e., the data from these microscopies, also known as image processing). Lately, managing bits has involved orchestrating neural networks with my biological insights.
+I'm interested in molecular bits (the bases in a nucleic-acid sequence), molecular photography (capturing molecular structures and their locations in situ), & molecular videography (observing what molecules do, and how). My goal is to build platforms that advance molecular diagnostics, discovery, and therapy. I specialize in managing bits (the sequencing data and images), managing biomolecules (developing the assays), and managing photons & electrons (the light & electron microscopy that visualizes them). Lately, managing bits has increasingly meant orchestrating (& managing) neural networks with my biological insights. I think I am also good at managing people & relationships. In the age of artificial intelligence, I even more strongly commit myself to harnessing natural human-ness, so I place ever increasing emphasis on the management of people & relationships.
 
 
 
